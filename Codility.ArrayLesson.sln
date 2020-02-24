@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.ArrayLesson", "Codility.ArrayLesson\Codility.ArrayLesson.csproj", "{87F9247F-20FE-45A7-A843-13C5019A9CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.ArrayLesson.UnitTests", "Codility.ArrayLesson.UnitTests\Codility.ArrayLesson.UnitTests.csproj", "{BBFD36B0-7D86-461B-AE3F-AD3B12F26650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F9247F-20FE-45A7-A843-13C5019A9CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F9247F-20FE-45A7-A843-13C5019A9CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F9247F-20FE-45A7-A843-13C5019A9CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F9247F-20FE-45A7-A843-13C5019A9CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFD36B0-7D86-461B-AE3F-AD3B12F26650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFD36B0-7D86-461B-AE3F-AD3B12F26650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFD36B0-7D86-461B-AE3F-AD3B12F26650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFD36B0-7D86-461B-AE3F-AD3B12F26650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FF5535-4E84-4034-8E26-B734FBC24AFC}
+	EndGlobalSection
+EndGlobal
