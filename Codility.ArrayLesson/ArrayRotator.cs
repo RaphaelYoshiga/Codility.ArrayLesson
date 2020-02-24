@@ -9,7 +9,7 @@ using System.Linq;
 
 public class ArrayRotator
 {
-    public int[] solution(int[] A, int K)
+    public int[] RotateN(int[] A, int K)
     {
         int[] result = A;
         for (int i = 0; i < K; i++)
